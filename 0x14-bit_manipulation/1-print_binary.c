@@ -1,5 +1,4 @@
-#include "holberton.h"
-#define BIT_SIZE 8
+#include "main.h"
 
 /**
  * powX - powers a number b to the p's power
@@ -48,4 +47,3 @@ void print_binary(unsigned long int n)
 	}
 
 }
-

@@ -1,5 +1,4 @@
-#include "holberton.h"
-#define  BIT_SIZE 8
+#include "main.h"
 /**
  * powX - powers a number b to the p's power
  * @b: base
