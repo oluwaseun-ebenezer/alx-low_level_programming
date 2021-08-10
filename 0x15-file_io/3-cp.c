@@ -1,9 +1,9 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * main - copy content of file to another file
- * @argc: arg count
- * @argv: arg vector
+ * main - copies the content of a file to another file
+ * @argc: argument count
+ * @argv: argument vector
  * Return: 0 if success
  */
 int main(int argc, char *argv[])

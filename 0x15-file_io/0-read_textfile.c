@@ -1,11 +1,11 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * read_textfile - reads a file and prints it to the
- * POSIX std output
- * @filename: ptr to filename
- * @letters: bytes
- * Return: actual bytes
+ * read_textfile - reads a text file and prints it to the
+ * POSIX standard output
+ * @filename: pointer to filename
+ * @letters: bytes to print
+ * Return: actual bytes printed
  */
 ssize_t read_textfile(const char *filename, size_t letters)
 {
